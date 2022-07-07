@@ -42,8 +42,8 @@ namespace Ejercicio3
             Console.WriteLine("Ingresa un numero arabigo");
             int num = Convert.ToInt32( Console.ReadLine());
 
-            var result = ArabToroman(num);
-            Console.WriteLine($"Numero Arabigo {num} - su equivalente en numero Romano es {result}");
+            //var result = ArabToroman(num);
+            //Console.WriteLine($"Numero Arabigo {num} - su equivalente en numero Romano es {result}");
 
             //string num = "MCMLXXIX";
             //var result = RomanToArab(num);
