@@ -39,7 +39,7 @@ namespace Ejercicio3
             //Console.WriteLine(result);
 
             //ObtienePesos();
-            Console.WriteLine("Ingresa un numero arabigo");
+            Console.WriteLine("Ingresa un numero arabigo por favor");
             int num = Convert.ToInt32( Console.ReadLine());
 
             //var result = ArabToroman(num);
