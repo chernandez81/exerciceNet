@@ -1,0 +1,13 @@
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\bin\Release\netcoreapp3.1\Ejercicio3.exe
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\bin\Release\netcoreapp3.1\Ejercicio3.deps.json
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\bin\Release\netcoreapp3.1\Ejercicio3.runtimeconfig.json
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\bin\Release\netcoreapp3.1\Ejercicio3.runtimeconfig.dev.json
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\bin\Release\netcoreapp3.1\Ejercicio3.dll
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\bin\Release\netcoreapp3.1\Ejercicio3.pdb
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\obj\Release\netcoreapp3.1\Ejercicio3.csprojAssemblyReference.cache
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\obj\Release\netcoreapp3.1\Ejercicio3.AssemblyInfoInputs.cache
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\obj\Release\netcoreapp3.1\Ejercicio3.AssemblyInfo.cs
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\obj\Release\netcoreapp3.1\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\obj\Release\netcoreapp3.1\Ejercicio3.dll
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\obj\Release\netcoreapp3.1\Ejercicio3.pdb
+C:\VS2019\src\GRPCNet5\EjerciciosNET\Ejercicio3\obj\Release\netcoreapp3.1\Ejercicio3.genruntimeconfig.cache
